@@ -28,7 +28,7 @@ A simple full-stack web app for booking healthcare appointments with doctors.
 
 ## **Live Demo**
 
-The project is hosted on Firebase. You can access it here:
+The project is hosted on Netlify. You can access it here:
 
 **https://bookhealth.netlify.app/**
 
