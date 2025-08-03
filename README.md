@@ -55,6 +55,18 @@ npm run dev
 
 The app will be available at http://localhost:5173/.
 
+## **Improvements** 
+
+- User authentication for patients
+- Upload profile images instead of URL
+- Better error handling
+
+## **Challenges Faced**
+
+- Handling **CORS** issues while connecting frontend (React) with backend (Node.js + Express) on different origins.
+- Keeping the UI responsive and clean with Material UI Grid.
+- Ensuring smooth redirects and good UX after booking.
+
 
 
 
